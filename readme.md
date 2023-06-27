@@ -1,10 +1,10 @@
 # Questions for an AnnieCannons Student
-what is your nationality?
+1)What is your nationality?
 
-what lead you to coding?
+2)What lead you to coding?
 
-What City do you live in?
+3)What City do you live in?
 
-Where do you dreamed you lived?
+4)Where do you dreamed you lived?
 
-What are 3 food you cant live without?
+5)What are 3 food you cant live without?
